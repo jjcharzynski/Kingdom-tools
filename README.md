@@ -1,2 +1,4 @@
-# kingdom-polygon-functions
-A collection of functions written to use with IHS Kingdom geoscience software.
+# Shapefile to Kingdom Polygon
+A function to convert a shapefile to a Kingdom Polygon
+
+S&P Global IHS Kingdom
