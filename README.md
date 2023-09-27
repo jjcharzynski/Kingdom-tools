@@ -2,6 +2,8 @@
 
 This repository is a collection of python scrpts that were written to help a Kingdom user complete workflows easier. 
 
+[Kingdom](https://www.spglobal.com/commodityinsights/en/ci/products/kingdom-seismic-geological-interpretation-software.html) is a seismic and geological interpretation sotfware by S&P Global. 
+
 # Table of Contents
 - [ShapefileToKingdomPolygon](#ShapefileToKingdomPolygon)
   - [Prerequisites](#prerequisites)
@@ -12,7 +14,7 @@ This repository is a collection of python scrpts that were written to help a Kin
 
 ## ShapefileToKingdomPolygon
 
-This Python script converts shapefiles to a CSV format suitable for importing into the Kingdom Software (S&P Global IHS Kingdom, seismic and geological interpretation sotfware.) as planimeter polygons. It takes shapefiles located in a folder with a specified EPSG coordinate system and converts them into the Kingdom Project coordinate system, saving the results in a CSV file. 
+This Python script converts shapefiles to a CSV format suitable for importing into the Kingdom Software as planimeter polygons. It takes shapefiles located in a folder with a specified EPSG coordinate system and converts them into the Kingdom Project coordinate system, saving the results in a CSV file. 
 
 ### Prerequisites
 
