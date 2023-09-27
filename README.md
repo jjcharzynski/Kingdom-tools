@@ -3,7 +3,7 @@
 This repository is a collection of python scrpts that were written to help a Kingdom user complete workflows easier. 
 
 ## Table of Contents
-- [ShapefileToKingdomPolygon](#Shapefile To Kingdom Polygon)
+- [ShapefileToKingdomPolygon](#ShapefileToKingdomPolygon)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Input Parameters](#input-parameters)
