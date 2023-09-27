@@ -2,7 +2,8 @@
 
 This repository is a collection of python scrpts that were written to help a Kingdom user complete workflows easier. 
 
-[Kingdom](https://www.spglobal.com/commodityinsights/en/ci/products/kingdom-seismic-geological-interpretation-software.html) is a seismic and geological interpretation sotfware by S&P Global. 
+ Kingdom is a seismic and geological interpretation sotfware by S&P Global. 
+ [(https://www.spglobal.com/commodityinsights/en/ci/products/kingdom-seismic-geological-interpretation-software.html](https://www.spglobal.com/commodityinsights/en/ci/products/kingdom-seismic-geological-interpretation-software.html)
 
 # Table of Contents
 - [Shapefile To Kingdom Polygon](#ShapefileToKingdomPolygon)
