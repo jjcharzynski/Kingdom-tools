@@ -5,7 +5,7 @@ This repository is a collection of python scrpts that were written to help a Kin
 [Kingdom](https://www.spglobal.com/commodityinsights/en/ci/products/kingdom-seismic-geological-interpretation-software.html) is a seismic and geological interpretation sotfware by S&P Global. 
 
 # Table of Contents
-- [ShapefileToKingdomPolygon](#ShapefileToKingdomPolygon)
+- [Shapefile To Kingdom Polygon](#ShapefileToKingdomPolygon)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
   - [Input Parameters](#input-parameters)
